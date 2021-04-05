@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PietroC6 or Pietro
-- 👀 I’m interested in discover new thing about technology (software and hardware).
+- 👀 I’m interested in discover new things about technology (software and hardware).
 - 🌱 I’m currently learning biomedical science.
 - 💞️ I’m looking to collaborate on different kind of projects (mainly about boimedical or automotive).
 - 📫 How to reach me: pitero.pepito@gmail.com
